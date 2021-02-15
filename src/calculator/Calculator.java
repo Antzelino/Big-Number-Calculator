@@ -53,7 +53,7 @@ public static void main(String[] args)
             n2 = n2.substring(1);
         }
     }
-    
+
     if (apotel != 0)
     {
         result = Integer.toString(apotel).concat(result);
